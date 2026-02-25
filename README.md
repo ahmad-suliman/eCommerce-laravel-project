@@ -19,57 +19,57 @@ Fake Payment
 
 # 🛍 Product Management
 
-Create, edit, delete products (Admin)
+- Create, edit, delete products (Admin)
 
-Product categories
+- Product categories
 
-Product image display
+- Product image display
 
-Single product view page
+- Single product view page
 
 # 🛒 Cart System
 
-Add products to cart
+- Add products to cart
 
-View cart items
+- View cart items
 
-Remove items from cart
+- Remove items from cart
 
 # ⭐ Reviews System
 
-Users can leave product reviews
+- Users can leave product reviews
 
-Linked to both user and product
+- Linked to both user and product
 
 # 📊 Admin Dashboard
 
-Manage users
+- Manage users
 
-Manage products
+- Manage products
 
-Manage reviews
+- Manage reviews
 
-View contact messages
+- View contact messages
 
 # 🗄 Database
 
-Proper foreign key relationships
+- Proper foreign key relationships
 
-Migrations for all tables
+- Migrations for all tables
 
-Factories & seeders for testing data
+- Factories & seeders for testing data
 
 # 🛠 Tech Stack
 
-Backend: Laravel
+- Backend: Laravel
 
-Frontend: Blade, Bootstrap
+- Frontend: Blade, Bootstrap
 
-Database: MySQL
+- Database: MySQL
 
-Authentication: Laravel Auth
+- Authentication: Laravel Auth
 
-Version Control: Git & GitHub
+- Version Control: Git & GitHub
 
 # 💳 Payment Integration (Stripe - Test Mode)
 
@@ -83,38 +83,38 @@ Features:
 - Order confirmation after successful payment
 
 Test Card Example:
-Card Number: 4242 4242 4242 4242  
-Expiry: Any future date  
-CVC: Any 3 digits
+- Card Number: 4242 4242 4242 4242
+- Expiry: Any future date  
+- CVC: Any 3 digits
 
 # ⚙ Installation Guide
 
 Clone the repository:
 
 git clone [https://github.com/ahmad-suliman/eCommerce-laravel-project.git]
-cd eCommerce-laravel-project
+- cd eCommerce-laravel-project
 
-Install dependencies:
+- Install dependencies:
 
-composer install
+- composer install
 
-Copy environment file:
+- Copy environment file:
 
-cp .env.example .env
+- cp .env.example .env
 
-Generate application key:
+- Generate application key:
 
-php artisan key:generate
+- php artisan key:generate
 
-Set your database credentials in .env
+- Set your database credentials in .env
 
-Run migrations and seeders:
+- Run migrations and seeders:
 
-php artisan migrate --seed
+- php artisan migrate --seed
 
-Start the server:
+- Start the server:
 
-php artisan serve
+- php artisan serve
 
 Visit:
     [http://127.0.0.1:8000]
