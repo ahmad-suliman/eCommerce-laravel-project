@@ -1,7 +1,28 @@
 # 🛒 Laravel E-Commerce Project
 📌 Overview
+## Screenshots
 
-![]([/public/assets/img/Annotation%202026-02-26%20122921.png] )![](/public/assets/img/Annotation%202026-02-26%20122958.png)![](https://github.com/ahmad-suliman/eCommerce-laravel-project/blob/main/public/assets/img/Annotation%202026-02-26%20123027.png)![](https://github.com/ahmad-suliman/eCommerce-laravel-project/blob/main/public/assets/img/Annotation%202026-02-26%20123049.png)![](https://github.com/ahmad-suliman/eCommerce-laravel-project/blob/main/public/assets/img/Annotation%202026-02-26%20123131.png)![](https://github.com/ahmad-suliman/eCommerce-laravel-project/blob/main/public/assets/img/Annotation%202026-02-26%20123219.png)![](https://github.com/ahmad-suliman/eCommerce-laravel-project/blob/main/public/assets/img/Annotation%202026-02-26%20123310.png)![](https://github.com/ahmad-suliman/eCommerce-laravel-project/blob/main/public/assets/img/Annotation%202026-02-26%20123333.png)![](https://github.com/ahmad-suliman/eCommerce-laravel-project/blob/main/public/assets/img/Annotation%202026-02-26%20123346.png)![](https://github.com/ahmad-suliman/eCommerce-laravel-project/blob/main/public/assets/img/Annotation%202026-02-26%20123358.png)
+<p align="center">
+  <img src="/public/assets/img/Annotation%202026-02-26%20122921.png" width="32%" />
+  <img src="/public/assets/img/Annotation%202026-02-26%20122958.png" width="32%" />
+  <img src="(https://github.com/ahmad-suliman/eCommerce-laravel-project/blob/main/public/assets/img/Annotation%202026-02-26%20123027.png" width="32%" />
+</p>
+
+<p align="center">
+  <img src="https://github.com/ahmad-suliman/eCommerce-laravel-project/blob/main/public/assets/img/Annotation%202026-02-26%20123049.png" width="32%" />
+  <img src="https://github.com/ahmad-suliman/eCommerce-laravel-project/blob/main/public/assets/img/Annotation%202026-02-26%20123131.png" width="32%" />
+  <img src="https://github.com/ahmad-suliman/eCommerce-laravel-project/blob/main/public/assets/img/Annotation%202026-02-26%20123219.png" width="32%" />
+</p>
+
+<p align="center">
+  <img src="/public/assets/img/Annotation%202026-02-26%20123310.png" width="32%" />
+  <img src="/public/assets/img/Annotation%202026-02-26%20123333.png" width="32%" />
+  <img src="/public/assets/img/Annotation%202026-02-26%20123346.png" width="32%" />
+</p>
+
+<p align="center">
+  <img src="/public/assets/img/Annotation%202026-02-26%20123358.png" width="32%" />
+</p>
 
 This is a back-end E-Commerce Web Application built using Laravel.
 The project includes user authentication, product management, admin dashboard, cart functionality, reviews system, and database relationships.
