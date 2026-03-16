@@ -1,7 +1,7 @@
 # 🛒 Laravel E-Commerce Project
 📌 Overview
 
-!(/public/assets/img/Annotation%202026-02-26%20122921.png)
+![](/public/assets/img/Annotation%202026-02-26%20122921.png)
 
 This is a back-end E-Commerce Web Application built using Laravel.
 The project includes user authentication, product management, admin dashboard, cart functionality, reviews system, and database relationships.
