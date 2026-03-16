@@ -5,7 +5,7 @@
 <p align="center">
   <img src="/public/assets/img/Annotation%202026-02-26%20122921.png" width="32%" />
   <img src="/public/assets/img/Annotation%202026-02-26%20122958.png" width="32%" />
-  <img src="(https://github.com/ahmad-suliman/eCommerce-laravel-project/blob/main/public/assets/img/Annotation%202026-02-26%20123027.png" width="32%" />
+  <img src="https://github.com/ahmad-suliman/eCommerce-laravel-project/blob/main/public/assets/img/Annotation%202026-02-26%20123027.png" width="32%" />
 </p>
 
 <p align="center">
